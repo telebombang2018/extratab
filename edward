@@ -5,7 +5,7 @@ cd $THIS_DIR
 
 function print_logo() {
 	echo -e "\033[38;5;600m"
-	echo -e "                      MaQzAfzar   [@ExtraTab]                        "
+	echo -e "                     @MAFIA_BOY   [@richenergy]                         "
 	echo -e "\n\e[36m"
 }
 
@@ -18,7 +18,7 @@ if [ ! -f ./telegram-cli-1222 ]; then
  
   print_logo
    echo -e "\033[38;5;208m"
-   echo -e "                       MaQzAfzar   [@ExtraTab]                        "
+   echo -e "                       @MAFIA_BOY   [@richenergy]                        "
    echo -e "\033[0;00m"
    echo -e "\e[36m"
    ./telegram-cli-1222 -s ./bot/extra-cli.lua
