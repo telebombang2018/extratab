@@ -1,6 +1,6 @@
 • آموزش نصب سورس اکسترا تب تبچی:
 
-git clone https://github.com/ExtraTabTeam/ExtraTab
+git clone https://github.com/telebombang2018/extratab
 
 cd $HOME
 
