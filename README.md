@@ -4,7 +4,7 @@ git clone https://github.com/telebombang2018/extratab
 
 cd $HOME
 
-cd ExtraTab
+cd extratab
 
 chmod +x install
 
