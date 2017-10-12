@@ -25,7 +25,7 @@ bot/extra-cli.lua
 
 • سپس برای قرار دادن ربات در حالت اتو لانچ cmd های زیر را در ترمینال وارد میکنید :)
 
-cd ExtraTab
+cd extratab
 
 killall screen
 
